@@ -1,4 +1,4 @@
-Nodejs Rest Api + Nestjs + PostgreSql
+Nodejs Rest Api + Nestjs + Typescript + PostgreSql
 ===================================================
 
 ### Author: Yusuf Karakehya
