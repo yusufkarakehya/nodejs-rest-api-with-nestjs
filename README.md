@@ -5,7 +5,7 @@ Nodejs Rest Api + Nestjs + PostgreSql
 * [Website](https://karakehya.com/)
 * [LinkedIn](https://www.linkedin.com/in/yusuf-karakehya/)
 
-You can use this project to quickly get started with Nodejs Rest Api + Nestjs + PostgreSql
+You can use this project to quickly get started with Nodejs Rest Api + Nestjs + Typescript + PostgreSql
 
 ### Update the DB configuration
 First, create a PostgreSql database. Then create '.env' file.
